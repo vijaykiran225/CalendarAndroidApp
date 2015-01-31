@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="vk">Welcome Select Date to continue</string>
+    <string name="app_name">CalendarProject</string>
+<string name="Monday">Monday</string>
+<string name="Tuesday">Tuesday</string>
+<string name="Wednesday">Wednesday</string>
+<string name="Thursday">Thursday</string>
+<string name="Friday">Friday</string>
+<string name="Saturday">Saturday</string>
+<string name="Sunday">Sunday</string>
+</resources>
